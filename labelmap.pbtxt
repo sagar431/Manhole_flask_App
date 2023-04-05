@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'closed manhole'
+}
+
+item {
+    id: 2
+    name: 'improperly closed manhole'
+}
+
+item {
+    id: 3
+    name: 'open manhole'
+}
