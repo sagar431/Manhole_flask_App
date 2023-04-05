@@ -6,7 +6,7 @@ This project uses TensorFlow 2.0 to build a web-based object detection applicati
 
 ## Screenshots
 
-![App Screenshot](https://miro.medium.com/v2/resize:fit:1400/1*fy88j-fYXR6a-Vw2xZkV6Q.gifhttps://miro.medium.com/v2/resize:fit:1400/1*fy88j-fYXR6a-Vw2xZkV6Q.gif)
+![App Screenshot](https://github.com/sagar431/Manhole_flask_App/blob/main/tensorflow2objectdetection.png?raw=true)
 
 
 ## Installation
